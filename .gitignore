@@ -17,7 +17,17 @@
 .env.development.local
 .env.test.local
 .env.production.local
+.env
+.envrc
+.idea
+.eslintcache
 
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# tailwind
+src/assets/css/tailwind.out.css
+
+# vscode
+.vscode/
